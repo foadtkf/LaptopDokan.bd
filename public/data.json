@@ -1,0 +1,45 @@
+[
+    {
+        "id":1,
+        "name": "Potla",
+        "img": "https://images.unsplash.com/photo-1463453091185-61582044d556?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "title": "Very nice laptop. I'm fully satisfied",
+        "rating": "4"
+    },
+    {
+        "id":2,
+        "name": "Mochu",
+        "img": "https://images.unsplash.com/photo-1552831682-c5c7fc3a5e9d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "title": "Keyboard ta vallagse",
+        "rating": "5"
+
+    },
+    {
+        "id":3,
+        "name": "Fulkopi",
+        "img": "https://images.unsplash.com/photo-1621010032635-bd0f537cb8f4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "title": "Bangladesh theke bolchi.  eita khub sundor laptop",
+        "rating": "4.5"
+    },
+    {
+        "id":4,
+        "name": "Keramot ali",
+        "img": "https://images.unsplash.com/photo-1646483093593-9503aefaeedc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=327&q=80",
+        "title": "Facebook ekhon ager thekeo valo chole!",
+        "rating": "5"
+    },
+    {
+        "id":5,
+        "name": "Kala chan",
+        "img": "https://images.unsplash.com/photo-1569098446737-c22abf95abf7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=327&q=80",
+        "title": "Omagoma! etto fast laptop",
+        "rating": "3.6"
+    },
+    {
+        "id":6,
+        "name": "Kutup minar",
+        "img": "https://images.unsplash.com/photo-1515342870411-fdedf6a7c373?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=420&q=80",
+        "title": "Ayhay kora laptop",
+        "rating": "4"
+    }
+]
