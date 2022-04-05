@@ -3,7 +3,7 @@ import React from 'react';
 const Blog = () => {
     return (
       <div className="m-7">
-        <div>
+        <div className='border-4 p-5 m-3'>
           <h1 className="font-bold text-lg flex justify-center mb-5">
             What is context API?
           </h1>
@@ -22,7 +22,7 @@ const Blog = () => {
             consumes and uses the state.
           </p>
         </div>
-        <div>
+        <div className='border-4  p-5 m-3'>
           <h1 className="font-bold text-lg flex justify-center mb-5 mt-5">
             What are symantic tags?
           </h1>
@@ -41,21 +41,15 @@ const Blog = () => {
             more or less like div elements.
           </p>
         </div>
-        <div>
+        <div className='border-4 p-5 m-3'>
           <h1 className="font-bold text-lg flex justify-center mb-5 mt-5">
             Inline block vs inline element
           </h1>
           <p>
-            <span className="font-bold">Inline</span> The element doesn’t start
-            on a new line and only occupy just the width it requires. You can’t
-            set the width or height. Compared to display: inline, the major
-            difference is that display: inline-block allows to set a width and
-            height on the element.{" "}
-            <span className="font-bold">inline-block</span> It’s formatted just
-            like the inline element, where it doesn’t start on a new line. A{" "}
-            <span className="font-bold">block </span> element is an HTML element
-            that begins a new line on a web page and extends the full width of
-            the available horizontal space of its parent element
+            <span className="font-bold">Inline</span> Inline-block: They consume the entire width available irrespective of their sufficiency. They always start in a new line and have top and bottom margins. It does not contain any other elements next to it.
+            </p>
+            <p>
+            Inline-element: Inline elements occupy only enough width that is sufficient to it and allows other elements next to it which are inline. Inline elements don't start from a new line and don't have top and bottom margins as block elements have.
           </p>
         </div>
       </div>
