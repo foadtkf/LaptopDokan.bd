@@ -1,6 +1,6 @@
 # LaptopDokan.bd
 
-## Live Link: 
+## Live Link: https://laptopdokanbd.netlify.app/
 
 ## Tools I've used:
 - React Router
